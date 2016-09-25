@@ -1,0 +1,11 @@
+{
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"font_size": 13,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"0_package_control_loader",
+		"Vintage"
+	],
+	"theme": "Material-Theme.sublime-theme"
+}

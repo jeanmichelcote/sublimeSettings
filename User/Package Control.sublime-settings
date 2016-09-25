@@ -1,0 +1,31 @@
+{
+	"bootstrapped": true,
+	"installed_packages":
+	[
+		"3024 Color Scheme",
+		"Alignment",
+		"All Autocomplete",
+		"Autoprefixer",
+		"Awk",
+		"Babel",
+		"ColorPicker",
+		"DocBlockr",
+		"Emmet",
+		"Expand Tabs on Save",
+		"Git",
+		"GitGutter-Edge",
+		"HTML Snippets",
+		"HTML5",
+		"HTMLEntity Snippets",
+		"Material Color Scheme",
+		"Material Theme",
+		"Nodejs",
+		"Package Control",
+		"React Development Snippets",
+		"React ES6 Snippets",
+		"React Templates",
+		"ReactJS",
+		"Sass",
+		"Terminal"
+	]
+}
